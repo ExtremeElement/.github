@@ -14,7 +14,7 @@
 
 ### 🌊 🏄 **Surfing: Command the Unpredictable Ocean** 🌊
 
-![Surfing](https://example.com/surfing_image) <!-- Replace with an actual image URL -->
+![Surfing]([https://example.com/surfing_image](https://images.unsplash.com/photo-1476574898132-040f50db0a01?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)) <!-- Replace with an actual image URL -->
 
 The ocean is an untamable force, a playground for those brave enough to ride its waves. At **Extreme Element**, we provide you with more than just equipment—we deliver the tools for mastery. Our surf collection features expertly shaped boards, cutting-edge gear, and stylish yet functional apparel. Whether you're chasing towering swells or perfecting your carve, we equip you to own the water and make every wave your own.
 
