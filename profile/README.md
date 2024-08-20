@@ -2,6 +2,7 @@
 
 <img src="https://github.com/ExtremeElement/ExtremeElement/blob/main/Logo/Extreme%20Element.png" alt="Logo">
 
+</div>
 ---
 
 ### **Surfing: Command the Unpredictable Ocean** 
@@ -20,8 +21,6 @@ When the first snowfall dusts the mountains, the real adventure begins. **Extrem
 
 The city is your canvas, and every rail, ramp, and street is an opportunity for expression. With **Extreme Element**, you don’t just skate—you leave your mark. Our collection of custom decks, high-performance wheels, and durable streetwear is designed to empower your creativity and push the limits. From grinding rails to cruising the streets, we’ve got the gear to elevate your skills and style.
 
-</div>
-
 ---
 
 ## 📲 **Connect with Us**
@@ -29,8 +28,6 @@ The city is your canvas, and every rail, ramp, and street is an opportunity for 
 Be part of the **Extreme Element** tribe on Instagram, where every post fuels the fire of our shared passion. Follow us for exclusive gear drops, thrilling event coverage, and insider promotions:
 
 [![Instagram](https://img.shields.io/badge/Instagram-@davideeviscuso-833AB4?style=for-the-badge&logo=instagram)](https://instagram.com/davideeviscuso) <!-- Replace with your Instagram handle -->
-
-</div>
 
 ---
 
