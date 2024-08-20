@@ -1,7 +1,7 @@
 <div align= "center">
 ## 🌊 🏄 **Surfing: Command the Unpredictable Ocean** 🌊
 <img src="https://github.com/ExtremeElement/ExtremeElement/blob/main/Logo/EXTREME%20ELEMENT.png" style="width: 1000px; height: 500px;" alt="Logo">
-</div>
+
 ---
 
 <div align="center">
