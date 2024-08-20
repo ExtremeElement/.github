@@ -2,11 +2,11 @@
 
 <div align="center">
 
-## Welcome to **Extreme Element** 🏄🏂🛹
+# Welcome to **Extreme Element** 🏄🏂🛹
 
 </div>
 
-
+---
 
 <div align="center">
 
