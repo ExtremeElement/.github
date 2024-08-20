@@ -1,6 +1,6 @@
 <div align= "center">
 
-<img src="https://github.com/ExtremeElement/ExtremeElement/blob/main/Logo/EXTREME%20ELEMENT.png" alt="Logo">
+<img src="https://github.com/ExtremeElement/ExtremeElement/blob/main/Logo/Montagnestilizzate.png" alt="Logo">
 
 ---
 
