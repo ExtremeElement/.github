@@ -38,7 +38,7 @@ The city is your canvas, and every rail, ramp, and street is an opportunity for 
 
 Be part of the **Extreme Element** tribe on Instagram, where every post fuels the fire of our shared passion. Follow us for exclusive gear drops, thrilling event coverage, and insider promotions:
 
-[![Instagram](https://img.shields.io/badge/Instagram-@extremeelement-833AB4?style=for-the-badge&logo=instagram)](https://instagram.com/extremeelement) <!-- Replace with your Instagram handle -->
+[![Instagram](https://img.shields.io/badge/Instagram-@extremeelement-833AB4?style=for-the-badge&logo=instagram)](https://instagram.com/davideeviscuso) <!-- Replace with your Instagram handle -->
 
 </div>
 
