@@ -1,9 +1,8 @@
- <img src="https://github.com/ExtremeElement/ExtremeElement/blob/main/Logo/EXTREME%20ELEMENT.png" alt="Logo">
+<img src="https://github.com/ExtremeElement/ExtremeElement/blob/main/Logo/EXTREME%20ELEMENT.png" alt="Logo">
 
 <div align="center">
 
 ## Welcome to **Extreme Element** 🏄🏂🛹
-
 **Where Passion Meets the Pinnacle of Extreme Sports**
 
 </div>
