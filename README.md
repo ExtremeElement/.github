@@ -1,4 +1,4 @@
-# ![Extreme Element Logo](path_to_your_logo_image) <!-- Insert your logo image path here -->
+# ![Extreme Element Logo](Extreme Element.png) <!-- Insert your logo image path here -->
 
 <div align="center">
 
