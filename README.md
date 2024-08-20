@@ -1,4 +1,4 @@
-<img src="https://github.com/ExtremeElement/ExtremeElement/blob/main/Logo/EXTREME%20ELEMENT.png" style="width: 200px; height: 100px;" alt="Logo">
+<img src="https://github.com/ExtremeElement/ExtremeElement/blob/main/Logo/EXTREME%20ELEMENT.png" style="width: 1000px; height: 400px;" alt="Logo">
 
 ---
 
