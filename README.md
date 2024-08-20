@@ -6,19 +6,19 @@
 
 <div align="center">
 
-### 🌊 🏄 **Surfing: Command the Unpredictable Ocean** 🌊
+### **Surfing: Command the Unpredictable Ocean** 
 
 The ocean is an untamable force, a playground for those brave enough to ride its waves. At **Extreme Element**, we provide you with more than just equipment—we deliver the tools for mastery. Our surf collection features expertly shaped boards, cutting-edge gear, and stylish yet functional apparel. Whether you're chasing towering swells or perfecting your carve, we equip you to own the water and make every wave your own.
 
 ---
 
-### 🏔️ 🏂 **Snowboarding: Conquer the Majestic Peaks** 🏔️
+### **Snowboarding: Conquer the Majestic Peaks** 
 
 When the first snowfall dusts the mountains, the real adventure begins. **Extreme Element** is your partner in carving out unforgettable moments on the slopes. Our snowboards are engineered for precision, our accessories are designed for peak performance, and our apparel is crafted to withstand the harshest elements. Whether you’re bombing through backcountry powder or nailing that trick in the half-pipe, we ensure you’re geared up to dominate every run.
 
 ---
 
-### 🛹 **Skateboarding: Redefine the Urban Landscape** 🛹
+### **Skateboarding: Redefine the Urban Landscape** 
 
 The city is your canvas, and every rail, ramp, and street is an opportunity for expression. With **Extreme Element**, you don’t just skate—you leave your mark. Our collection of custom decks, high-performance wheels, and durable streetwear is designed to empower your creativity and push the limits. From grinding rails to cruising the streets, we’ve got the gear to elevate your skills and style.
 
