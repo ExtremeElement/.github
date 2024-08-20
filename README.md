@@ -3,7 +3,6 @@
 <div align="center">
 
 ## Welcome to **Extreme Element** 🏄🏂🛹
-**Where Passion Meets the Pinnacle of Extreme Sports**
 
 </div>
 
